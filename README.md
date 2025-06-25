@@ -1,4 +1,3 @@
-![Screenshot 2025-06-23 194400](https://github.com/user-attachments/assets/6ae50088-894b-4971-8b09-3db35a979bec)
 
 
 
