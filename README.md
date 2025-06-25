@@ -1,6 +1,4 @@
-
-
-
+vercel hosted link for preview :https://quickcart-six.vercel.app/
 
 
 
